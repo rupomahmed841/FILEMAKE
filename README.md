@@ -1,3 +1,5 @@
+rm -rf FILEMAKE
+
 git clone https://github.com/rupomahmed841/FILEMAKE
 
 cd FILEMAKE
